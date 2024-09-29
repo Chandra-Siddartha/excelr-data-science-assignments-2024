@@ -1,4 +1,3 @@
-Here’s a draft of a README file for your GitHub repository based on your ExcelR Data Science assignments:
 
 ---
 
